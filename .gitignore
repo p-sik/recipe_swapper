@@ -1,2 +1,6 @@
 .vscode/*
 *.code-workspace
+
+densities.txt
+sample_recipe.txt
+units.txt
